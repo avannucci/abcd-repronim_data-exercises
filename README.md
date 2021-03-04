@@ -5,3 +5,4 @@ The following data exercises have been completed as preparation for project week
 The completed data exercises are saved as jupyter notebooks.
 
 * Data Exercises 1-2: data-exercises-1+2.ipynb
+* Data Exercise 3: data-exercise-3.ipynb
